@@ -1,0 +1,152 @@
+{
+  "main": {
+    "name": "Ritik Gupta",
+    "occupation": "Student",
+    "description": "Full Stack Web Developer || 4 ⭐ on Codechef",
+    "image": "profile.jpg",
+    "bio": "I am a student and enthusiastic to gain knowledge. I am passionate and hardworking towards my work. Also I am a full stack web developer with good problem solving skills.",
+    "contactmessage": "Get in touch with me to receive more details",
+    "email": "ritikgupta2003@gmail.com",
+    "phone": "+91 8684840127",
+    "address": {
+      "street": "Gupta Garments, Main Market",
+      "city": "Assandh",
+      "state": "Haryana",
+      "zip": "132039"
+    },
+    "website": "",
+    "resumedownload": "https://drive.google.com/file/d/1QL79VfCswU1HgOhKb4G1YBLirKkOlJUJ/view?usp=drivesdk",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/ritik-gupta-4756851a1/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/ritikgupta28",
+        "className": "fa fa-github"
+      },
+      {
+        "name": "facebook",
+        "url": "https://www.instagram.com/ritik__gupta_/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/_ritik__gupta/",
+        "className": "fa fa-instagram"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "I am a student and enthusiastic to gain knowledge. I am passionate and hardworking towards my work. Also I am a full stack web developer with good problem solving skills.",
+    "education": [
+      {
+        "school": "J.C. Bose University of Science and Technology, YMCA, Faridabad",
+        "degree": "Computer Engineering",
+        "graduated": "2018-22",
+        "description": "CGPA - 8.4"
+      },
+      {
+        "school": "DAV Public School, Assandh, Haryana",
+        "degree": "12th Class",
+        "graduated": "2017",
+        "description": "Percentage - 87.4"
+      }
+    ],
+    "work": [
+      {
+        "company": "Vivekanand Manch",
+        "title": "Senior Coordinator",
+        "years": "May 2020 - Present",
+        "description": "A Socio-Cultural Society"
+      },
+      {
+        "company": "IEEE",
+        "title": "Team Member",
+        "years": "October 2018 - October 2019",
+        "description": "Technical Professional Organization"
+      }
+    ],
+    "ratings": [
+      {
+        "website": "CodeChef",
+        "url": "https://www.codechef.com/users/ritikgupta28",
+        "description": "Rating - 1817"
+      },
+      {
+        "website": "Codeforces",
+        "url": "https://codeforces.com/profile/ritikgupta28",
+        "description": "Rating - 1454"
+      },
+
+      {
+        "website": "LeetCode",
+        "url": "https://leetcode.com/ritikgupta28/",
+        "description": "Rating - 1728, Problem Solved - 341"
+      },
+      {
+        "website": "Hackerearth",
+        "url": "https://www.hackerearth.com/@ritikgupta28",
+        "description": "Problem Solved - 329"
+      }
+    ],
+    "skills": [
+      {
+        "name": "NodeJs",
+        "level": "95%"
+      },
+      {
+        "name": "C++",
+        "level": "90%"
+      },
+      {
+        "name": "Data-Structures",
+        "level": "85%"
+      },
+      {
+        "name": "Algorithms",
+        "level": "85%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "90%"
+      },
+      {
+        "name": "ReactJS",
+        "level": "80%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "CSS",
+        "level": "75%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "On-Platform",
+        "category": "A platform for organizations to host their Coding Interview Contest. It includes user and host login with dashboard and IDE.",
+        "image": "on-platform.png",
+        "url": "https://on-platform.herokuapp.com/"
+      },
+      {
+        "title": "Chocolate Divine",
+        "category": "E-commerce website for buying homemade chocolates.",
+        "image": "chocolate-divine.png",
+        "url": "https://chocolatedivine.herokuapp.com/"
+      },
+      {
+        "title": "Crazy-Books",
+        "category": "A multi user and multi admin web app for selling and buying books with online bill and online payment option.",
+        "image": "crazy-books.png",
+        "url": "http://shop-testing.herokuapp.com/"
+      }
+    ]
+  }
+}

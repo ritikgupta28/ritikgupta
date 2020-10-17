@@ -39,7 +39,7 @@ const Contact = ({ data }) => {
                 </div>
                 <div>
                  <label htmlFor="contactMessage">Message <span className="required">*</span></label>
-                 <textarea value={message} onChange={e => setMessage(e.target.value)} cols="50" rows="8" id="contactMessage" name="contactMessage"></textarea>
+                 <textarea value={message} onChange={e => setMessage(e.target.value)} cols="50" rows="7" id="contactMessage" name="contactMessage"></textarea>
                 </div>
                 <div>
                   <button type='submit' onClick={handleClick} className="submit">Submit</button>
@@ -60,7 +60,7 @@ const Contact = ({ data }) => {
 					    <p className="address">
 						   {data?.name}<br />
 						   {data?.address.street}, <br />
-						   {data?.address.city}, {data?.address.state}, {data?.address.zip}, <br />
+						   {data?.address.city}, {data?.address.state}, {data?.address.zip} <br />
 					    </p>
               <h4>Phone: </h4>
               <span>{data?.phone}</span>

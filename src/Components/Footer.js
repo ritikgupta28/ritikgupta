@@ -16,9 +16,6 @@ class Footer extends Component {
            <ul className="social-links">
               {networks}
            </ul>
-           <ul>
-            <li>Made with Love <span role="img" aria-label="love">❤️</span></li>
-           </ul>
            <ul className="copyright">
               <li>&copy; Copyright 2020</li>
            </ul>

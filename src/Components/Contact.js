@@ -1,10 +1,10 @@
 import React, { useState } from 'react';
 
 const Contact = ({ data }) => {
-   //const [url, setUrl] = useState('mailto:sahilgoyals1999@gmail.com?subject=subject&body=body');
+   const [email] = useState('ritikgupta2003@gmail.com');
    const [name, setName] = useState('');
    const [subject, setSubject] = useState('');
-   const [email, setEmail] = useState('');
+   // const [email, setEmail] = useState('');
    const [message, setMessage] = useState('');
 
    const handleClick = (e) => {
@@ -26,12 +26,12 @@ const Contact = ({ data }) => {
               <form id="contactForm" name="contactForm">
 					    <fieldset>
                 <div>
-						     <label htmlFor="contactName">Name <span className="required">*</span></label>
-						     <input value={name} type="text" size="30" id="contactName" name="contactName" onChange={e => setName(e.target.value)}/>
+                 <label htmlFor="contactEmail">Email <span className="required">*</span></label>
+                 <input value={email} type="text" size="30" id="contactEmail" name="contactEmail"/>
                 </div>
                 <div>
-						     <label htmlFor="contactEmail">Email <span className="required">*</span></label>
-						     <input value={email} type="text" size="30" id="contactEmail" name="contactEmail" onChange={e=> setEmail(e.target.value)}/>
+						     <label htmlFor="contactName">Name <span className="required">*</span></label>
+						     <input value={name} type="text" size="30" id="contactName" name="contactName" onChange={e => setName(e.target.value)}/>
                 </div>
                 <div>
 						     <label htmlFor="contactSubject">Subject</label>

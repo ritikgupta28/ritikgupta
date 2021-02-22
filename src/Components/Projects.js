@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 
-class Portfolio extends Component {
+class Projects extends Component {
   render() {
     if(this.props.data) {
       var projects = this.props.data.projects.map(function(projects) {
@@ -26,7 +26,7 @@ class Portfolio extends Component {
       <section id="portfolio">
       <div className="row">
          <div className="twelve columns collapsed">
-            <h1>Check Out Some of My Projects.</h1>
+            <h1>Check Out Some of My Projects</h1>
             <div id="portfolio-wrapper" className="bgrid-thirds s-bgrid-thirds cf">
               {projects}
             </div>
@@ -37,4 +37,4 @@ class Portfolio extends Component {
   }
 }
 
-export default Portfolio;
+export default Projects;

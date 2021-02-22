@@ -4,7 +4,7 @@
     "occupation": "Student",
     "description": "Full Stack Web Developer || 4 ⭐ on Codechef",
     "image": "profile.jpg",
-    "bio": "I am a student and enthusiastic to gain knowledge. I am passionate and hardworking towards my work. Also I am a full stack web developer with good problem solving skills.",
+    "bio": "I am a student and enthusiastic to gain knowledge. I am passionate and hardworking towards my work and also I am a full stack web developer with good problem solving skills.",
     "contactmessage": "Get in touch with me to receive more details",
     "email": "ritikgupta2003@gmail.com",
     "phone": "+91 8684840127",
@@ -15,7 +15,7 @@
       "zip": "132039"
     },
     "website": "",
-    "resumedownload": "https://drive.google.com/file/d/1Qyuuz2xroEqijypYR46YZ1UhWrCbGu0S/view?usp=drivesdk",
+    "resumedownload": "https://drive.google.com/file/d/1CpEifW8KEVRXbg4dEW7Rv4-G8KO0zvG3/view?usp=sharing",
     "social": [
       {
         "name": "linkedin",
@@ -40,7 +40,6 @@
     ]
   },
   "resume": {
-    "skillmessage": "I am a student and enthusiastic to gain knowledge. I am passionate and hardworking towards my work. Also I am a full stack web developer with good problem solving skills.",
     "education": [
       {
         "school": "J.C. Bose University of Science and Technology, YMCA, Faridabad",
@@ -73,23 +72,22 @@
       {
         "website": "CodeChef",
         "url": "https://www.codechef.com/users/ritikgupta28",
-        "description": "Rating - 1817"
+        "description": "Max Rating - 1817"
       },
       {
         "website": "Codeforces",
         "url": "https://codeforces.com/profile/ritikgupta28",
-        "description": "Rating - 1454"
+        "description": "Max Rating - 1593"
       },
-
       {
         "website": "LeetCode",
         "url": "https://leetcode.com/ritikgupta28/",
-        "description": "Rating - 1728, Problem Solved - 341"
+        "description": "Max Rating - 1728, Problem Solved - 356"
       },
       {
         "website": "Hackerearth",
         "url": "https://www.hackerearth.com/@ritikgupta28",
-        "description": "Problem Solved - 329"
+        "description": "Problem Solved - 340"
       }
     ],
     "skills": [
@@ -103,10 +101,14 @@
       },
       {
         "name": "Data-Structures",
-        "level": "85%"
+        "level": "90%"
       },
       {
         "name": "Algorithms",
+        "level": "85%"
+      },
+      {
+        "name": "Javascript",
         "level": "85%"
       },
       {
@@ -115,7 +117,7 @@
       },
       {
         "name": "ReactJS",
-        "level": "80%"
+        "level": "85%"
       },
       {
         "name": "HTML5",
@@ -123,13 +125,19 @@
       }
     ]
   },
-  "portfolio": {
+  "projects": {
     "projects": [
       {
         "title": "On-Platform",
         "category": "A platform for organizations to host their Coding Interview Contest. It includes user and host login with dashboard and IDE.",
         "image": "on-platform.png",
         "url": "https://on-platform.herokuapp.com/"
+      },
+      {
+        "title": "HR-Management",
+        "category": "Web app where manager manages company and employees data and employee manages its profile.",
+        "image": "hr-management.png",
+        "url": "https://hr-management-web-app.herokuapp.com/"
       },
       {
         "title": "Chocolate Divine",
